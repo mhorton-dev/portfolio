@@ -1,5 +1,5 @@
 const links = document.querySelectorAll('.link');
-const sections = document.querySelectorAll('section');
+const sections = document.querySelectorAll('main > section');
 
 let activeLink = 0;
 
